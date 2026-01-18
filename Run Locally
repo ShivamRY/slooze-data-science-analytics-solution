@@ -1,0 +1,12 @@
+## How to Run Locally
+
+- **Python version:** 3.11  
+- **Dataset:** Download from the provided Kaggle link  
+
+### Steps
+1. Download the dataset from:  
+   https://www.kaggle.com/datasets/sloozecareers/slooze-challenge
+
+2. Place the CSV files inside a `data/` directory at the project root.
+
+3. Open `analysis_pipeline.ipynb` and run all cells sequentially.
